@@ -173,7 +173,7 @@
 
 ### 方式 3：直接当成 prompt asset / system prompt 使用
 
-如果你的 agent 没有原生 skill 机制，也可以把 [`SKILL.md`](./.claude/skills/wang-zengqi-perspective/SKILL.md) 当成：
+如果你的 agent 没有原生 skill 机制，也可以把 [`SKILL.md`](./wangzengqi-perspective/SKILL.md) 当成：
 
 - system prompt
 - persona prompt
@@ -244,18 +244,16 @@
 .
 ├── README.md
 ├── README.en.md
-└── .claude/
-    └── skills/
-        └── wang-zengqi-perspective/
-            ├── SKILL.md
-            └── references/
-                └── research/
-                    ├── 01-writings.md
-                    ├── 02-conversations.md
-                    ├── 03-expression-dna.md
-                    ├── 04-external-views.md
-                    ├── 05-decisions.md
-                    └── 06-timeline.md
+└── wangzengqi-perspective/
+    ├── SKILL.md
+    └── references/
+        └── research/
+            ├── 01-writings.md
+            ├── 02-conversations.md
+            ├── 03-expression-dna.md
+            ├── 04-external-views.md
+            ├── 05-decisions.md
+            └── 06-timeline.md
 ```
 
 ## 研究方法
@@ -305,14 +303,14 @@
 
 ## 致谢与来源
 
-本仓库中的 [`SKILL.md`](./.claude/skills/wang-zengqi-perspective/SKILL.md) 与调研底稿，基于公开资料整理完成，主要参考：
+本仓库中的 [`SKILL.md`](./wangzengqi-perspective/SKILL.md) 与调研底稿，基于公开资料整理完成，主要参考：
 
 - 中国作家网相关文章
 - 澎湃关于汪曾祺文论与自述的整理
 - 清华校友总会《自报家门》
 - 光明日报相关文章
 
-详细研究过程见 [`references/research`](./.claude/skills/wang-zengqi-perspective/references/research)。
+详细研究过程见 [`references/research`](./wangzengqi-perspective/references/research)。
 
 ## License
 

@@ -177,7 +177,7 @@ First use humanizer-zh to remove obvious AI tone, then use wang-zengqi-perspecti
 
 ### Option 3: Use it as a prompt asset or system prompt
 
-If your agent does not support native skills, you can still use [`SKILL.md`](./.claude/skills/wang-zengqi-perspective/SKILL.md) as:
+If your agent does not support native skills, you can still use [`SKILL.md`](./wangzengqi-perspective/SKILL.md) as:
 
 - a system prompt
 - a persona prompt
@@ -250,18 +250,16 @@ The point is:
 .
 ├── README.md
 ├── README.en.md
-└── .claude/
-    └── skills/
-        └── wang-zengqi-perspective/
-            ├── SKILL.md
-            └── references/
-                └── research/
-                    ├── 01-writings.md
-                    ├── 02-conversations.md
-                    ├── 03-expression-dna.md
-                    ├── 04-external-views.md
-                    ├── 05-decisions.md
-                    └── 06-timeline.md
+└── wangzengqi-perspective/
+    ├── SKILL.md
+    └── references/
+        └── research/
+            ├── 01-writings.md
+            ├── 02-conversations.md
+            ├── 03-expression-dna.md
+            ├── 04-external-views.md
+            ├── 05-decisions.md
+            └── 06-timeline.md
 ```
 
 ## Research method
@@ -311,14 +309,14 @@ If the original text contains no people, no scene, no objects, no gestures, no r
 
 ## Credits and sources
 
-The [`SKILL.md`](./.claude/skills/wang-zengqi-perspective/SKILL.md) file and research notes were compiled from public materials, mainly including:
+The [`SKILL.md`](./wangzengqi-perspective/SKILL.md) file and research notes were compiled from public materials, mainly including:
 
 - articles from China Writers Association sources
 - The Paper’s compiled Wang Zengqi essays and statements
 - Tsinghua alumni publication of “Self-Introduction”
 - related essays from Guangming Daily
 
-See [`references/research`](./.claude/skills/wang-zengqi-perspective/references/research) for the detailed research trail.
+See [`references/research`](./wangzengqi-perspective/references/research) for the detailed research trail.
 
 ## License
 
