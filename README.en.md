@@ -1,5 +1,7 @@
 # WangZengqi-Writing-Style
 
+![WangZengqi Writing Style header](./assets/github-header.svg)
+
 [中文 README](./README.md)
 
 > Not another `humanizer-zh`.  

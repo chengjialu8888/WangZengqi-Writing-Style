@@ -1,0 +1,94 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">WangZengqi Writing Style GitHub header</title>
+  <desc id="desc">A literary GitHub header for a Chinese writing skill inspired by Wang Zengqi: from AI-like text to writing with people, details, atmosphere, and rhythm.</desc>
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1280" y2="640" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F7F0E3"/>
+      <stop offset="0.42" stop-color="#F3E7CF"/>
+      <stop offset="1" stop-color="#DDE9DE"/>
+    </linearGradient>
+    <linearGradient id="inkPanel" x1="728" y1="72" x2="1128" y2="544" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#173C3A"/>
+      <stop offset="1" stop-color="#0E2529"/>
+    </linearGradient>
+    <linearGradient id="seal" x1="0" y1="0" x2="120" y2="120" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#CF4E34"/>
+      <stop offset="1" stop-color="#8F2D25"/>
+    </linearGradient>
+    <pattern id="grid" width="52" height="52" patternUnits="userSpaceOnUse">
+      <path d="M52 0H0V52" stroke="#9D8D70" stroke-opacity="0.13" stroke-width="1"/>
+    </pattern>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#20342E" flood-opacity="0.16"/>
+    </filter>
+    <filter id="paperShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#4F3B24" flood-opacity="0.14"/>
+    </filter>
+    <style>
+      .sans { font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", Arial, sans-serif; }
+      .serif { font-family: "Songti SC", "Noto Serif CJK SC", "STSong", "SimSun", Georgia, serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="640" fill="url(#paper)"/>
+  <rect width="1280" height="640" fill="url(#grid)"/>
+
+  <path d="M-74 96C98 51 177 104 318 71C433 44 519-18 658 28C750 59 771 130 892 139C1011 148 1115 71 1358 94" stroke="#265C55" stroke-opacity="0.16" stroke-width="26" stroke-linecap="round"/>
+  <path d="M-52 552C147 505 270 575 425 535C557 501 630 432 771 458C920 486 985 598 1336 529" stroke="#A74934" stroke-opacity="0.12" stroke-width="22" stroke-linecap="round"/>
+
+  <g filter="url(#softShadow)">
+    <rect x="704" y="76" width="438" height="488" rx="24" fill="url(#inkPanel)"/>
+    <rect x="726" y="98" width="394" height="444" rx="18" stroke="#D6C49D" stroke-opacity="0.26" stroke-width="1"/>
+    <path d="M762 202C822 170 879 175 936 205C1004 240 1056 234 1092 209" stroke="#D6C49D" stroke-opacity="0.16" stroke-width="12" stroke-linecap="round"/>
+    <path d="M768 458C845 410 916 415 1000 456C1039 475 1070 475 1100 458" stroke="#6EA69A" stroke-opacity="0.22" stroke-width="9" stroke-linecap="round"/>
+    <text x="764" y="156" class="serif" fill="#F5EBD3" font-size="34" font-weight="700">汪曾祺式写作</text>
+    <text x="764" y="194" class="sans" fill="#BBD0C5" font-size="17" letter-spacing="0">A writing skill for warmer Chinese prose</text>
+    <rect x="764" y="238" width="312" height="54" rx="12" fill="#F5EBD3" fill-opacity="0.1" stroke="#F5EBD3" stroke-opacity="0.18"/>
+    <text x="786" y="272" class="sans" fill="#F5EBD3" font-size="20" font-weight="700">不是更像人说话</text>
+    <rect x="764" y="310" width="312" height="54" rx="12" fill="#F5EBD3" fill-opacity="0.1" stroke="#F5EBD3" stroke-opacity="0.18"/>
+    <text x="786" y="344" class="sans" fill="#F5EBD3" font-size="20" font-weight="700">而是更像有人在里面</text>
+    <rect x="764" y="386" width="128" height="42" rx="21" fill="#D9B66C"/>
+    <text x="790" y="413" class="sans" fill="#173C3A" font-size="16" font-weight="800">细节</text>
+    <rect x="908" y="386" width="128" height="42" rx="21" fill="#80A999"/>
+    <text x="934" y="413" class="sans" fill="#10292C" font-size="16" font-weight="800">行气</text>
+    <rect x="764" y="444" width="128" height="42" rx="21" fill="#D98466"/>
+    <text x="790" y="471" class="sans" fill="#2B1712" font-size="16" font-weight="800">人味</text>
+    <rect x="908" y="444" width="128" height="42" rx="21" fill="#B8CDE5"/>
+    <text x="934" y="471" class="sans" fill="#10233A" font-size="16" font-weight="800">留白</text>
+  </g>
+
+  <g filter="url(#paperShadow)">
+    <rect x="92" y="88" width="540" height="432" rx="22" fill="#FFF9EC"/>
+    <rect x="117" y="117" width="490" height="374" rx="14" fill="#FFFDF5" stroke="#BAA77F" stroke-opacity="0.5"/>
+    <path d="M158 176H560" stroke="#CDBB94" stroke-opacity="0.42"/>
+    <path d="M158 232H560" stroke="#CDBB94" stroke-opacity="0.42"/>
+    <path d="M158 288H560" stroke="#CDBB94" stroke-opacity="0.42"/>
+    <path d="M158 344H560" stroke="#CDBB94" stroke-opacity="0.42"/>
+    <path d="M158 400H560" stroke="#CDBB94" stroke-opacity="0.42"/>
+    <text x="152" y="165" class="sans" fill="#7A756A" font-size="22" text-decoration="line-through">模板腔</text>
+    <text x="152" y="221" class="sans" fill="#7A756A" font-size="22" text-decoration="line-through">排比腔</text>
+    <text x="152" y="277" class="sans" fill="#7A756A" font-size="22" text-decoration="line-through">空泛抒情</text>
+    <text x="152" y="333" class="sans" fill="#173C3A" font-size="24" font-weight="800">人物、风物、动作</text>
+    <text x="152" y="389" class="sans" fill="#173C3A" font-size="24" font-weight="800">平淡，但有回味</text>
+    <path d="M463 130C496 158 520 195 528 237C537 285 516 334 480 363C456 382 426 393 395 398" stroke="#A74934" stroke-width="7" stroke-linecap="round"/>
+    <path d="M394 398C410 384 421 368 428 349" stroke="#A74934" stroke-width="7" stroke-linecap="round"/>
+  </g>
+
+  <g>
+    <rect x="92" y="548" width="540" height="42" rx="21" fill="#173C3A" fill-opacity="0.9"/>
+    <text x="122" y="575" class="mono" fill="#F5EBD3" font-size="16">humanizer 的下一层 · rebuild emotional structure and rhythm</text>
+  </g>
+
+  <g transform="translate(564 424)">
+    <rect width="104" height="104" rx="18" fill="url(#seal)" transform="rotate(-6 52 52)"/>
+    <text x="52" y="42" text-anchor="middle" class="serif" fill="#FFF4DE" font-size="24" font-weight="800">人间</text>
+    <text x="52" y="75" text-anchor="middle" class="serif" fill="#FFF4DE" font-size="24" font-weight="800">小温</text>
+  </g>
+
+  <g opacity="0.72">
+    <path d="M1186 174C1191 142 1214 127 1227 105C1238 129 1232 154 1210 178C1201 188 1187 189 1186 174Z" fill="#A74934"/>
+    <path d="M1187 174C1164 150 1135 150 1112 137C1121 166 1140 184 1170 188C1183 190 1193 185 1187 174Z" fill="#6C9A7C"/>
+    <path d="M1172 192C1151 212 1138 240 1136 272" stroke="#173C3A" stroke-opacity="0.5" stroke-width="5" stroke-linecap="round"/>
+  </g>
+</svg>
